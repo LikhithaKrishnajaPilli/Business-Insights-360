@@ -19,13 +19,13 @@ To develop a scalable, automated, and interactive Power BI solution that allows 
 
 By implementing a structured data analytics approach, the solution aimed to:
 
-✅ Enhance data accessibility—centralized reporting for better collaboration
+✅ **Enhance data accessibility**—centralized reporting for better collaboration
 
-✅ Improve forecasting accuracy—data-backed predictions for budgeting and inventory planning
+✅ **Improve forecasting accuracy**—data-backed predictions for budgeting and inventory planning
 
-✅ Reduce manual effort—automated data refresh and reporting
+✅ **Reduce manual effort**—automated data refresh and reporting
 
-✅ Provide intuitive dashboards—so even non-technical users can derive actionable insights
+✅ **Provide intuitive dashboards**—so even non-technical users can derive actionable insights
 
 ## **Solution: Business Insights 360**
 To tackle these challenges, I developed Business Insights 360, a comprehensive Power BI reporting system that consolidates and visualizes key business metrics.
@@ -97,14 +97,14 @@ The Business Insights 360 solution provides five core business views, each deliv
 ✔ **Supply Chain & Market Insights** – Developing forecasting models and analyzing business performance metrics
 
 ## **Impact & Business Value**
-🚀 Enabled real-time decision-making by providing stakeholders with accurate, up-to-date insights
+🚀 **Enabled real-time decision-making** by providing stakeholders with accurate, up-to-date insights
 
-🚀 Improved financial forecasting and budget planning for better financial health
+🚀 Improved **financial forecasting and budget planning** for better financial health
 
-🚀 Optimized sales & marketing strategies through data-driven analysis of regional and product trends
+🚀 **Optimized sales & marketing strategies** through data-driven analysis of regional and product trends
 
-🚀 Enhanced supply chain efficiency by improving inventory tracking and demand forecasting
+🚀 Enhanced supply chain efficiency by **improving inventory tracking and demand forecasting**
 
-🚀 Reduced manual reporting efforts, allowing teams to focus on strategic decision-making
+🚀 Reduced manual reporting efforts, allowing teams to focus on **strategic decision-making**
 
-This project was a transformational learning experience, pushing me to refine my data analytics, dashboard design, and business intelligence skills.
+This project was a transformational learning experience, pushing me to refine my **data analytics, dashboard design, and business intelligence skills.**
