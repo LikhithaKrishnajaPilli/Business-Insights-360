@@ -1,4 +1,4 @@
-# **Business-Insights-360**
+# **Business-Insights-360**    [PowerBI Dashboard Link](https://app.powerbi.com/links/H90mjQOrE0?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=6607f1d3-5822-4f9b-a8d9-42de361aed15)
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
 ## **Problem Statement**
@@ -52,15 +52,15 @@ To tackle these challenges, I developed Business Insights 360, a comprehensive P
 ## **Key Features & Insights**
 The Business Insights 360 solution provides five core business views, each delivering actionable insights:
 
-📊 **Finance View** – Financial forecasting, profit/loss analysis, and budget performance tracking.
+📊 **Finance View** – Financial forecasting, profit/loss analysis, and budget performance tracking. [view dashbaord](https://app.powerbi.com/groups/me/reports/725d8f64-a444-49fa-a1fc-b4780c9e9e98/516cd4a018640ee0bba8?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
 
-📊 **Sales View** – Regional and product-level sales performance analysis.
+📊 **Sales View** – Regional and product-level sales performance analysis.[view dashboard](https://app.powerbi.com/groups/me/reports/725d8f64-a444-49fa-a1fc-b4780c9e9e98/9721cbc4ac0420611f44?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
 
-📊 **Marketing View** – Market trends, customer behavior, and campaign effectiveness.
+📊 **Marketing View** – Market trends, customer behavior, and campaign effectiveness.[view dashboard](https://app.powerbi.com/groups/me/reports/725d8f64-a444-49fa-a1fc-b4780c9e9e98/ce29ba6c53d521173232?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
 
-📊 **Supply Chain View** – Inventory management, demand forecasting, and operational efficiency.
+📊 **Supply Chain View** – Inventory management, demand forecasting, and operational efficiency.[view daashbaord](https://app.powerbi.com/groups/me/reports/725d8f64-a444-49fa-a1fc-b4780c9e9e98/4ca2db4cbbc9bb8b6f3f?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
 
-📊 **Executive View** – A high-level business overview, empowering leadership with real-time insights.
+📊 **Executive View** – A high-level business overview, empowering leadership with real-time insights.[view dashbaord](https://app.powerbi.com/groups/me/reports/725d8f64-a444-49fa-a1fc-b4780c9e9e98/226f751d33685ab88cab?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
 
 ### **Advanced Features Implemented:**
 ✅ **Dynamic Dashboards** – Bookmarks, drill-throughs, and conditional formatting for an interactive experience.
